@@ -62,7 +62,7 @@ void initState() {
                         child: Row(
                           children: [
                             CircleAvatar(
-                              radius:40,
+                              radius:39,
                               backgroundImage: AssetImage(
                                   Get.arguments['img']
                               ),
