@@ -168,7 +168,7 @@ void initState() {
 
                         child: Container(
                           padding: const EdgeInsets.only(left: 20, top: 20),
-                          height: 220,
+                          height: 210,
                           width: MediaQuery.of(context).size.width-20,
                           margin: const EdgeInsets.only(right: 10),
                           decoration: BoxDecoration(
